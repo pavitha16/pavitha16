@@ -5,8 +5,8 @@ Data Scientist in progress — ' just waiting for them to start calling me the g
 Enthusisastic learner with a passion for exploring new subjects and expanding skill sets. Experienced in data science andanalysis, with a commitment to continuous learning and personal development. Dedicated to applying acquired knowledge and expertise to contribute effectively to organisational objectives
 
 ## 🔭 Experience
-- **Data Scientist** at **Skyraksys Technologies** (Jul 2024 - Jan 2025)
-- **Tools:** Python, AWS Bedrock, Tesseract OCR, OpenCV, JSON, Pandas
+- **Data Scientist** at **Skyraksys Technologies**  (Jul 2024 - Jan 2025)
+  **Tools:** Python, AWS Bedrock, Tesseract OCR, OpenCV, JSON, Pandas
 - Automated KYC document processing by extracting identity fields from PAN, Aadhaar, Voter ID, and Driving License using OCR and NLP techniques.
 - Leveraged computer vision and AWS Bedrock to detect fake or unclear documents, enhancing verification accuracy.
 - Structured extracted data into standardized JSON format, streamlining downstream analytics and validation workflows.
