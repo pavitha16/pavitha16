@@ -47,7 +47,7 @@ Enthusisastic learner with a passion for exploring new subjects and expanding sk
 ## 🏆 Achievements
 - Dekathon 2.0, 2023 : Finalist in National level symposium conducted by St.Thomas College of Engineering at Kerala, 2023
   
-### ⚡ Fun fact
+## ⚡ Fun fact
 - I believe clean data is the real superpower behind any great AI model! 🧼📊
 
 ## 📫 Connect With Me
